@@ -1,18 +1,14 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{09C1634D-C8BD-3CC0-CE61-8C18E86FE42B}") = "Tile Game 3", "Assembly-UnityScript.unityproj", "{C37F2EE7-24B4-709B-2E8E-46F397DA7BDE}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C37F2EE7-24B4-709B-2E8E-46F397DA7BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C37F2EE7-24B4-709B-2E8E-46F397DA7BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C37F2EE7-24B4-709B-2E8E-46F397DA7BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C37F2EE7-24B4-709B-2E8E-46F397DA7BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +32,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
