@@ -1,0 +1,139 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/2020.3.8f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/kate/Documents/GitHub/Maze-Tile-Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54424
+Successfully changed project path to: /Users/kate/Documents/GitHub/Maze-Tile-Game
+/Users/kate/Documents/GitHub/Maze-Tile-Game
+Using Asset Import Pipeline V2.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Refreshing native plugins compatible for Editor in 21.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path /Applications/2020.3.8f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/kate/Documents/GitHub/Maze-Tile-Game/Assets
+GfxDevice: creating device client; threaded=0
+2021-08-19 12:04:06.954 Unity[2913:95542] (null) preferred device: Apple M1 (high power)
+2021-08-19 12:04:06.954 Unity[2913:95542] Metal devices available: 1
+2021-08-19 12:04:06.954 Unity[2913:95542] 0: Apple M1 (high power)
+2021-08-19 12:04:06.954 Unity[2913:95542] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/2020.3.8f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/2020.3.8f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56913
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/2020.3.8f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/2020.3.8f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/2020.3.8f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003630 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 21.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.849 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.139 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Launching external process: /Applications/2020.3.8f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1115 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 116.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 1.109875 ms (FindLiveObjects: 0.080333 ms CreateObjectMapping: 0.023084 ms MarkObjects: 0.949209 ms  DeleteObjects: 0.055666 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SlideTrigger.js
+  artifactKey: Guid(eae6cb015ed9e4224a4997bd9294e1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SlideTrigger.js using Guid(eae6cb015ed9e4224a4997bd9294e1e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc13607c623068f77dd3f917e7e1e80') in 0.306204 seconds
+  Import took 0.307958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Grid.js
+  artifactKey: Guid(6a3c407ca523f4e8e94f9432fc33353b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Grid.js using Guid(6a3c407ca523f4e8e94f9432fc33353b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bfc10f06cfea7cd9ee254e00ff19dfe') in 0.003950 seconds
+  Import took 0.005168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/PlayerMovement.js
+  artifactKey: Guid(26d334b17d49e482492b97d8fbda0af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PlayerMovement.js using Guid(26d334b17d49e482492b97d8fbda0af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9aebdbe65530d4cad482c52fa6aebf') in 0.003148 seconds
+  Import took 0.004409 seconds .
+
